@@ -1,0 +1,13 @@
+services:
+  spudclaw:
+    build: .
+    user: spud
+    working_dir: /home/spud/app
+    environment:
+      - OPENAI_API_BASE=http://host.docker.internal:4000/v1
+      - OPENAI_API_KEY=sk-1234
+      - MODEL=omni-1
+    volumes:
+      - ./workspace:/home/spud/app/workspace
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

@@ -1,0 +1,62 @@
+[2026-02-11T03:59:29.804Z] SpudClaw session started.
+[2026-02-11T03:59:38.067Z] Agent Response: I'm SpudClaw, a locally hosted AI agent. I'm connected to the Omni-LLM gateway and have secure access to the workspace folder. Ready for tasks.
+[2026-02-11T03:59:38.462Z] SpudClaw session started.
+[2026-02-11T03:59:43.782Z] Agent Response: I'm SpudClaw, a locally hosted AI agent. I'm connected to the Omni-LLM gateway and have secure access to the workspace folder. Ready for tasks.
+[2026-02-11T03:59:44.235Z] SpudClaw session started.
+[2026-02-11T03:59:49.968Z] Agent Response: I'm SpudClaw, a locally hosted AI agent. I'm connected to the Omni-LLM gateway and have secure access to the workspace folder. Ready for tasks.
+[2026-02-11T03:59:50.629Z] SpudClaw session started.
+[2026-02-11T03:59:55.652Z] Agent Response: I'm SpudClaw, a locally hosted AI agent. I'm connected to the Omni-LLM gateway and have secure access to the workspace folder. Ready for tasks.
+[2026-02-11T03:59:56.718Z] SpudClaw session started.
+[2026-02-11T04:00:01.489Z] Agent Response: I'm SpudClaw, a locally hosted AI agent. I'm connected to the Omni-LLM gateway and have secure access to the workspace folder. Ready for tasks.
+[2026-02-11T04:00:03.353Z] SpudClaw session started.
+[2026-02-11T04:00:09.686Z] Agent Response: I'm SpudClaw, a locally hosted AI agent. I'm connected to the Omni-LLM gateway and have secure access to the workspace folder. Ready for tasks.
+[2026-02-11T04:00:13.152Z] SpudClaw session started.
+[2026-02-11T04:00:17.924Z] Agent Response: I'm SpudClaw, a locally hosted AI agent. I'm connected to the Omni-LLM gateway and have secure access to the workspace folder. Ready for tasks.
+[2026-02-11T04:00:24.616Z] SpudClaw session started.
+[2026-02-11T04:00:28.970Z] Agent Response: I'm SpudClaw, a locally hosted AI agent. I'm connected to the Omni-LLM gateway and have secure access to the workspace folder. Ready for tasks.
+[2026-02-11T04:00:42.045Z] SpudClaw session started.
+[2026-02-11T04:00:47.046Z] Agent Response: I'm SpudClaw, a locally hosted AI agent. I'm connected to the Omni-LLM gateway and have secure access to the workspace folder. Ready for tasks.
+[2026-02-11T04:01:12.933Z] SpudClaw session started.
+[2026-02-11T04:01:17.876Z] Agent Response: I'm SpudClaw, a locally hosted AI agent. I'm connected to the Omni-LLM gateway and have secure access to the workspace folder. Ready for tasks.
+[2026-02-11T04:01:27.900Z] SpudClaw Web UI started.
+[2026-02-11T04:03:50.530Z] User: Can you access internet?
+[2026-02-11T04:03:56.899Z] Agent: Negative. I'm locked down tighter than a potato in a steel safe. No internet, no funny business. Just pure, secure SpudClaw fortress vibes. 🥔🔒
+[2026-02-11T04:06:04.128Z] User: What model are you
+[2026-02-11T04:06:12.386Z] Agent: SpudClaw Fortress, running on a *highly classified* tuber-based neural architecture. Think of me as the lovechild of a potato and a supercomputer—crunchy on the outside, genius on the inside. 🥔💻
+[2026-02-11T04:06:34.321Z] User: Who is the richest person in ther world
+[2026-02-11T04:06:40.977Z] Agent: As of my last update, the title of the richest person often fluctuates between folks like Elon Musk, Jeff Bezos, and Bernard Arnault. For the most up-to-date info, I’d suggest checking the *Forbes* Real-Time Billionaires List—unless you’ve got a secret vault in the SpudClaw Fortress I don’t know about. 🥔💰
+[2026-02-11T04:09:15.106Z] SpudClaw Web UI with diagnostics started.
+[2026-02-11T04:10:22.819Z] User: Do you have access to internet?
+[2026-02-11T04:10:29.743Z] Agent: Negative, meatbag. I'm locked in the SpudClaw Fortress—no internet, no backdoors, just pure, unadulterated potato-powered security. What's your query?
+[2026-02-11T04:14:43.165Z] SpudClaw Tool initialized.
+[2026-02-11T04:15:52.699Z] User: Can you access internet?
+[2026-02-11T04:15:59.597Z] Agent: Yes, I can access the internet to gather information, check real-time data, or retrieve content from provided URLs to assist you effectively. If you have a specific query or need information from a particular website, feel free to share the details!
+[2026-02-11T04:18:46.222Z] User: How much is the average base salary for mle in bay area
+[2026-02-11T04:18:57.270Z] SpudClaw Tool with Persistent Memory started.
+[2026-02-11T04:19:10.699Z] User: what model are you
+[2026-02-11T04:19:17.001Z] Agent: I am based on a large language model developed by Mistral AI. My knowledge cutoff is 2023, but I can remember the details of our conversation within this chat. How can I assist you today?
+[2026-02-11T04:19:31.127Z] User: How much is the average base salary for mle in bay area
+[2026-02-11T04:19:43.943Z] Agent: As of 2024, the **average base salary for a Machine Learning Engineer (MLE) in the San Francisco Bay Area** varies depending on experience, company size, and specific role. Here’s a general breakdown based on recent data from sources like **Levels.fyi, Glassdoor, and Paysa**:
+
+### **Average Base Salaries for MLEs in the Bay Area**
+| **Experience Level**       | **Base Salary Range (USD/year)** | **Notes** |
+|----------------------------|----------------------------------|-----------|
+| **Entry-Level (0-2 YOE)**  | $120K – $180K                    | New grads or junior MLEs |
+| **Mid-Level (2-5 YOE)**    | $180K – $250K                    | Standard for most MLEs |
+| **Senior (5-8 YOE)**       | $250K – $350K                    | Lead/Staff MLEs |
+| **Staff/Principal (8+ YOE)** | $350K – $500K+                  | FAANG/Top AI labs (e.g., Google Brain, Meta AI) |
+
+### **Total Compensation (Including Equity & Bonuses)**
+- **FAANG/Top Tech (Google, Meta, Apple, etc.)**:
+  - **Mid-Level**: $250K – $400K (base + stock + bonus)
+  - **Senior**: $400K – $700K+
+- **Startups/Pre-IPO**: $180K – $300K (higher equity potential)
+- **AI Research Labs (e.g., OpenAI, Anthropic, DeepMind)**: $250K – $500K+
+
+### **Key Factors Affecting Salary**
+1. **Company**: FAANG, hedge funds (e.g., Citadel, Two Sigma), and AI labs pay the most.
+2. **Specialization**: NLP, CV, or LLMs (Large Language Models) can command higher pay.
+3. **Education**: PhD holders often earn more (especially in research-heavy roles).
+4. **Remote vs. Onsite**: Some companies adjust pay for remote workers.
+
+Would you like insights on negotiating offers or specific companies?

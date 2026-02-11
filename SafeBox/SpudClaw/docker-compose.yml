@@ -1,0 +1,25 @@
+services:
+  spudclaw:
+    build: .
+    container_name: spudclaw_fortress
+    user: spud
+    working_dir: /home/spud/app
+    ports:
+      - "18789:18789"
+    environment:
+      - OPENAI_API_BASE=http://host.docker.internal:4000/v1
+      - OPENAI_API_KEY=sk-1234
+      - MODEL_NAME=omni-1
+      - SANDBOX_MODE=strict
+      - WORKSPACE_DIR=/home/spud/app/workspace
+    volumes:
+      - ./workspace:/home/spud/app/workspace
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - spud_bridge
+    restart: unless-stopped
+
+networks:
+  spud_bridge:
+    driver: bridge
